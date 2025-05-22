@@ -1,6 +1,6 @@
 
 
-export default function Section1() {
+export default function Section2() {
   return (
     <div className="h-[520px] px-[16px] py-[40px] bg-white">
 

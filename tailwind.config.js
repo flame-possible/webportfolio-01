@@ -19,6 +19,7 @@ module.exports = {
         DefaultBorderColor: "#D9D9D9",
         TextSecondary: "#000000A6",
         TextQuaternary: "#FFFFFF40",
+        TextTertiary: "#00000073",
       },
       fontFamily: {
         Bagel: ['"Bagel Fat One"', 'sans-serif'], // 커스텀 폰트 등록

@@ -1,5 +1,5 @@
 
-export default function Section1() {
+export default function Section3() {
   return (
     <div className="h-[1440px] px-[16px] py-[40px] bg-Secondary">
 
