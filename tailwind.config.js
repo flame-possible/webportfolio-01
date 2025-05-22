@@ -39,7 +39,8 @@ module.exports = {
         'strong': '600',  // 커스텀 이름
       },
       boxShadow:{
-        'defaultShadow': '0 2px 0 rgba(0, 0, 0, 0.02)'
+        'defaultShadow': '0 2px 0 rgba(0, 0, 0, 0.02)',
+        'section4Shadow': '4px 4px 16px rgba(0, 0, 0, 0.08)'
       },
 
     },
