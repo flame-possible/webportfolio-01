@@ -26,22 +26,22 @@ export default function Section4() {
             </div>
 
             <div className="flex flex-row gap-[16px]">
-                <div className="flex flex-col gap-[16px]">
-                    <div className="aspect-[3/4]">
+                <div className="basis-1/2 flex flex-col gap-[16px]">
+                    <div className="h-[66.66%]">
                         <img src="/section4_1.png" alt="Section4-1 이미지" className="w-full h-full rounded-[8px] object-cover shadow-section4Shadow" />
                     </div>
                     
-                    <div className="aspect-[3/2]">
+                    <div className="h-[33.33%]">
                         <img src="/section4_7.png" alt="Section4-7 이미지" className="w-full h-full rounded-[8px] object-cover shadow-section4Shadow" />
                     </div>
                 </div>
-                <div className="flex flex-col gap-[16px]">
+                <div className="basis-1/2 flex flex-col gap-[16px]">
                     
-                    <div className="aspect-[3/2]">
+                    <div className="h-[33.33%]">
                     <img src="/section4_3.png" alt="Section4-3 이미지" className="w-full h-full rounded-[8px] object-cover shadow-section4Shadow" />
                     </div>
 
-                    <div className="aspect-[3/4]">
+                    <div className="h-[66.66%]">
                     <img src="/section4_6.png" alt="Section4-6 이미지" className="w-full h-full rounded-[8px] object-cover shadow-section4Shadow" />
                     </div>
                 </div>

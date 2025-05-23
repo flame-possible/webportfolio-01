@@ -2,9 +2,9 @@
 
 export default function Section2() {
   return (
-    <div className="h-[520px] px-[16px] py-[40px] bg-white">
+    <div className="px-[16px] py-[40px] bg-white">
 
-        <div className="flex flex-col gap-[20px]">
+        <div className="flex flex-col gap-[20px] justify-center items-center">
 
             <div className="flex flex-col gap-[16px] text-center">
 
@@ -34,7 +34,9 @@ export default function Section2() {
             </div>
             
 
-            <img src="/section2.png" alt="Section2 이미지" className="w-auto h-[204px] object-cover" />
+            <div className="">
+                <img src="/section2.png" alt="Section2 이미지" className="aspect-[3/2] object-cover" />
+            </div>
 
         </div>
 

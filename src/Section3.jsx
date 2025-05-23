@@ -1,11 +1,11 @@
 
 export default function Section3() {
   return (
-    <div className="h-[1440px] px-[16px] py-[40px] bg-Secondary">
+    <div className="px-[16px] py-[40px] bg-Secondary">
 
-        <div className="flex flex-col h-[1360px] gap-[24px]">
+        <div className="flex flex-col gap-[24px]">
 
-            <div className="h-[98px] text-center flex flex-col gap-[12px]">
+            <div className="text-center flex flex-col gap-[12px]">
                 <div className="font-Bagel text-Tertiary text-H3-px">
                     <p>
                         "진짜를 썼습니다.
@@ -22,8 +22,9 @@ export default function Section3() {
 
             </div>
 
-
-            <img src="/section3.png" alt="Section3 이미지" className="w-auto h-[500px] object-cover" />
+            <div>
+                <img src="/section3.png" alt="Section3 이미지" className="w-full h-auto object-cover" />
+            </div>
 
             <div className="flex flex-col gap-[36px]">
 
