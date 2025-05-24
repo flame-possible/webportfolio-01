@@ -12,7 +12,7 @@ export default function Section5() {
             <img src="/section5.png" alt="Section5 이미지" className="object-cover" />
 
 
-            <div className="w-[136px] h-[40px] px-[16px] flex items-center text-center justify-center bg-Primary rounded-[8px]">
+            <div className="h-[40px] px-[16px] flex items-center text-center justify-center bg-Primary rounded-[8px]">
                 <a href="#" className="text-Base-px font-strong font-pretendard text-white"> 지금 주문하러 가기 </a>
             </div>
 
