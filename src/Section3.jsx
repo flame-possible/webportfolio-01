@@ -1,7 +1,7 @@
 
 export default function Section3() {
   return (
-    <div className="px-[16px] py-[40px] md:px-[58px] md:py-[80px] xl:px-[120px] bg-Secondary">
+    <div className="px-[16px] py-[40px] md:px-[58px] md:py-[80px] xl:px-[120px] bg-Secondary min-h-[1000px]">
 
         <div className="flex flex-col gap-[24px] md:gap-[54px] relative ">
 
@@ -34,7 +34,7 @@ export default function Section3() {
 
             </div>
 
-            <div className="hidden md:flex flex-col z-10">
+            <div className="hidden md:flex flex-col z-10 my-auto">
                 <div className="flex flex-col gap-[8px] justify-end text-right">
                     <p className="text-H4-px font-strong text-white">
                         The BUN

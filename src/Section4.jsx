@@ -115,7 +115,7 @@ export default function Section4() {
                 </div>
             </div>
 
-            <div className="w-[141px] h-[40px] px-[16px] flex items-center text-center justify-center border border-DefaultBorderColor rounded-[8px]">
+            <div className="h-[40px] px-[16px] flex items-center text-center justify-center border border-DefaultBorderColor rounded-[8px]">
                 <a href="#" className="text-Base-px font-strong font-pretendard"> Real 후기 보러가기 </a>
             </div>
 
