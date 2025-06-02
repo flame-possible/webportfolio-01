@@ -43,7 +43,7 @@ export default function Section1() {
 
         </div>
 
-        <img src="/section1.png" alt="Section1 이미지" className="w-auto h-[648px] object-cover" />
+        <img src="/section1.png" alt="Section1 이미지" className="w-auto object-cover" />
 
         </div>
 

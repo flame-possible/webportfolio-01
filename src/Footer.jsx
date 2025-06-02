@@ -5,7 +5,7 @@ import { FaSquareInstagram } from "react-icons/fa6";
 
 export default function Footer() {
   return (
-    <footer className="px-[16px] py-[40px]">
+    <footer className="px-[16px] py-[40px] md:px-[58px] md:py-[64px] xl:px-[120px]">
 
         <div className="flex flex-col gap-[48px]">
 
@@ -21,14 +21,14 @@ export default function Footer() {
                         </p>
                     </div>
 
-                    <div className="flex flex-col gap-[20px]">
+                    <div className="flex flex-col justify-between md:flex-row gap-[20px] md:gap-[24px]">
 
-                        <div className="flex flex-row gap-[8px]">
-                            <p className="basis-1/2 font-pretendard font-strong text-Base-px">
+                        <div className="flex flex-row md:flex-col gap-[8px]">
+                            <p className="basis-1/2 md:basis-auto font-pretendard font-strong text-Base-px">
                                 버거이야기
                             </p>
 
-                            <ul className="basis-1/2 flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
+                            <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
                                     브랜드 소개
                                 </li>
@@ -47,12 +47,12 @@ export default function Footer() {
                             </ul>
                         </div>
 
-                        <div className="flex flex-row gap-[8px]">
-                            <p className="basis-1/2 font-pretendard font-strong text-Base-px">
+                        <div className="flex flex-row md:flex-col gap-[8px]">
+                            <p className="basis-1/2 md:basis-auto font-pretendard font-strong text-Base-px">
                                 메뉴 & 서비스
                             </p>
 
-                            <ul className="basis-1/2 flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
+                            <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
                                     전체 메뉴 보기
                                 </li>
@@ -68,12 +68,12 @@ export default function Footer() {
                             </ul>
                         </div>
 
-                        <div className="flex flex-row gap-[8px]">
-                            <p className="basis-1/2 font-pretendard font-strong text-Base-px">
+                        <div className="flex flex-row md:flex-col gap-[8px]">
+                            <p className="basis-1/2 md:basis-auto font-pretendard font-strong text-Base-px">
                                 고객 센터
                             </p>
 
-                            <ul className="basis-1/2 flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
+                            <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
                                     자주 묻는 질문
                                 </li>
@@ -95,12 +95,12 @@ export default function Footer() {
                             </ul>
                         </div>
 
-                        <div className="flex flex-row gap-[8px]">
-                            <p className="basis-1/2 font-pretendard font-strong text-Base-px">
+                        <div className="flex flex-row md:flex-col gap-[8px]">
+                            <p className="basis-1/2 md:basis-auto font-pretendard font-strong text-Base-px">
                                 회사 정보
                             </p>
 
-                            <ul className="basis-1/2 flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
+                            <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
                                     MEAT YOU 소개
                                 </li>
@@ -125,15 +125,15 @@ export default function Footer() {
 
             </div>
 
-            <div className="border border-DefaultBorderColor"></div>
+            <div className="border border-BorderDividerSubtle"></div>
 
-            <div className="flex flex-col gap-[40px]">
-                <div className="flex flex-col gap-[24px] font-pretendard text-TextSecondary text-Base-px">
+            <div className="flex flex-col justify-between lg:flex-row gap-[40px]">
+                <div className="flex flex-col md:flex-row gap-[24px] md:gap-[40px] font-pretendard text-TextSecondary text-Base-px">
                     <p>
                         © 2025 MEAT YOU. All rights reserved.
                     </p>
 
-                    <div className="flex flex-row gap-[24px]">
+                    <div className="flex flex-row gap-[24px] md:gap-[40px] font-pretendard text-Base-px">
                         <p>
                             Privacy Policy
                         </p>

@@ -17,6 +17,8 @@ module.exports = {
         Dark: '#030201',
         Secondary: '#271A08',
         DefaultBorderColor: "#D9D9D9",
+        BorderDividerSubtle: "#F0F0F0",
+        BorderDivider: "#555555",
         TextSecondary: "#000000A6",
         TextQuaternary: "#FFFFFF40",
         TextTertiary: "#00000073",

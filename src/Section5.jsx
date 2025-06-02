@@ -1,11 +1,11 @@
 
 export default function Section5() {
   return (
-    <div className="bg-Tertiary px-[16px] py-[40px]">
+    <div className="bg-Tertiary px-[16px] py-[40px] md:px-[58px] md:py-[80px] xl:px-[120px]">
 
         <div className="flex flex-col gap-[16px] text-center items-center justify-center">
 
-            <p className="font-pretendard text-white text-H4-px font-strong">
+            <p className="font-pretendard text-white text-H4-px md:text-H3-px lg:text-H2-px font-strong">
                 번 사이에 담긴 이야기까지 구워드립니다.
             </p>
 
