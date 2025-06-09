@@ -22,6 +22,7 @@ module.exports = {
         TextSecondary: "#000000A6",
         TextQuaternary: "#FFFFFF40",
         TextTertiary: "#00000073",
+        BrandHover: "#CC4E08"
       },
       fontFamily: {
         Bagel: ['"Bagel Fat One"', 'sans-serif'], // 커스텀 폰트 등록

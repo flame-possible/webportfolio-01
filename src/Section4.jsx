@@ -7,7 +7,7 @@ export default function Section4() {
         <div className="flex flex-col gap-[40px] md:gap-[64px] justify-center items-center text-center">
 
             <div className="flex flex-col gap-[20px] md:gap-[40px]">
-                <div className="flex flex-col gap-[20px]">
+                <div className="flex flex-col gap-[16px] lg:gap-[20px]">
 
                     <div className="flex flex-col gap-[4px]">
                         <p className="font-strong font-pretendard text-Base-px md:text-LG-px lg:text-H4-px">
@@ -115,7 +115,7 @@ export default function Section4() {
                 </div>
             </div>
 
-            <div className="h-[40px] px-[16px] flex items-center text-center justify-center border border-DefaultBorderColor rounded-[8px]">
+            <div className="h-[40px] px-[16px] flex items-center text-center justify-center border border-DefaultBorderColor rounded-[8px] hover:BorderHoverNatural">
                 <a href="#" className="text-Base-px font-strong font-pretendard"> Real 후기 보러가기 </a>
             </div>
 

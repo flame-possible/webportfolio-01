@@ -18,18 +18,18 @@ export default function Header() {
           <div>
             <ul className="flex flex-row gap-[36px] items-center justify-between">
               <li className="h-[40px] px-[15px] text-white font-pretendard font-strong text-Base-px flex items-center">
-                메뉴
+                <a href="#">메뉴</a>
               </li>
               <li className="h-[40px] px-[15px] text-white font-pretendard font-strong text-Base-px flex items-center">
-                스토리
+                <a href="#">스토리</a>
               </li>
               <li className="h-[40px] px-[15px] text-white font-pretendard font-strong text-Base-px flex items-center">
-                커스터마이즈
+                <a href="#">커스터마이즈</a>
               </li>
               <li className="h-[40px] px-[15px] text-white font-pretendard font-strong text-Base-px flex items-center">
-                매장위치
+                <a href="#">매장위치</a>
               </li>
-              <li className="h-[40px] px-[15px] bg-Primary rounded-[8px] text-white font-pretendard font-strong text-Base-px flex items-center">
+              <li className="h-[40px] px-[15px] bg-Primary rounded-[8px] text-white font-pretendard font-strong text-Base-px flex items-center hover:bg-BrandHover hover:cursor-pointer">
                 주문하기
               </li>
             </ul>

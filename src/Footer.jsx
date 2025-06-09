@@ -30,19 +30,19 @@ export default function Footer() {
 
                             <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
-                                    브랜드 소개
+                                    <a href="#">브랜드 소개</a>
                                 </li>
                                 <li>
-                                    탄생 비하인드
+                                    <a href="#">탄생 비하인드</a>
                                 </li>
                                 <li>
-                                    우리가 지키는 약속
+                                    <a href="#">우리가 지키는 약속</a>
                                 </li>
                                 <li>
-                                    수제 버거 철학
+                                    <a href="#">수제 버거 철학</a>
                                 </li>
                                 <li>
-                                    고기보다 사람 먼저
+                                    <a href="#">고기보다 사람 먼저</a>
                                 </li>
                             </ul>
                         </div>
@@ -54,16 +54,16 @@ export default function Footer() {
 
                             <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
-                                    전체 메뉴 보기
+                                    <a href="#">전체 메뉴 보기</a>
                                 </li>
                                 <li>
-                                    시그니처 버거
+                                    <a href="#">시그니처 버거</a>
                                 </li>
                                 <li>
-                                    버거 커스터마이징
+                                    <a href="#">버거 커스터마이징</a>
                                 </li>
                                 <li>
-                                    하우스 소스 스토어
+                                    <a href="#">하우스 소스 스토어</a>
                                 </li>
                             </ul>
                         </div>
@@ -75,22 +75,22 @@ export default function Footer() {
 
                             <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
-                                    자주 묻는 질문
+                                    <a href="#">자주 묻는 질문</a>
                                 </li>
                                 <li>
-                                    알레르기 정보
+                                    <a href="#">알레르기 정보</a>
                                 </li>
                                 <li>
-                                    매장 찾기
+                                    <a href="#">매장 찾기</a>
                                 </li>
                                 <li>
-                                    주문/배달 안내
+                                    <a href="#">주문/배달 안내</a>
                                 </li>
                                 <li>
-                                    영양 성분표
+                                    <a href="#">영양 성분표</a>
                                 </li>
                                 <li>
-                                    고객의 소리
+                                    <a href="#">고객의 소리</a>
                                 </li>
                             </ul>
                         </div>
@@ -102,19 +102,19 @@ export default function Footer() {
 
                             <ul className="basis-1/2 md:basis-auto flex flex-col gap-[8px] font-pretendard text-TextSecondary text-Base-px">
                                 <li>
-                                    MEAT YOU 소개
+                                    <a href="#">MEAT YOU 소개</a>
                                 </li>
                                 <li>
-                                    채용 정보
+                                    <a href="#">채용 정보</a>
                                 </li>
                                 <li>
-                                    뉴스 & 미디어
+                                    <a href="#">뉴스 & 미디어</a>
                                 </li>
                                 <li>
-                                    제휴/콜라보 문의
+                                    <a href="#">제휴/콜라보 문의</a>
                                 </li>
                                 <li>
-                                    브랜드 자료실
+                                    <a href="#">브랜드 자료실</a>
                                 </li>
                             </ul>
                         </div>

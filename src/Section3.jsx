@@ -34,6 +34,8 @@ export default function Section3() {
 
             </div>
 
+            <div className="h-[30px]" />
+
             <div className="hidden md:flex flex-col z-10 my-auto">
                 <div className="flex flex-col gap-[8px] justify-end text-right">
                     <p className="text-H4-px font-strong text-white">
@@ -42,8 +44,8 @@ export default function Section3() {
                     <div className="flex flex-row justify-end items-center">
                         <div></div>
                         <div className="basis-[51%] flex flex-row items-center">
-                            <div className="w-[26px] h-[26px] border-[1px] rounded-full border-BorderDivider"></div>
-                            <div className="w-full h-[2px] border-[1px] border-BorderDivider"></div>
+                            <div className="w-[26px] h-[26px] border-[1.5px] rounded-full border-BorderDivider"></div>
+                            <div className="w-full h-[1px] border-[1px] border-BorderDivider"></div>
                         </div>
                     </div>
                     <div className="font-pretendard text-Base-px text-TextQuaternary font-strong">
@@ -66,8 +68,8 @@ export default function Section3() {
                     </p>
                     <div className="flex flex-row items-center">
                         <div className="basis-[51%] flex flex-row items-center">
-                            <div className="w-full h-[2px] border-[1px] border-BorderDivider"></div>
-                            <div className="w-[26px] h-[26px] border-[1px] rounded-full border-BorderDivider"></div>
+                            <div className="w-full h-[1px] border-[1px] border-BorderDivider"></div>
+                            <div className="w-[26px] h-[26px] border-[1.5px] rounded-full border-BorderDivider"></div>
                         </div>
                         <div></div>
                     </div>
@@ -92,8 +94,8 @@ export default function Section3() {
                     <div className="flex flex-row justify-end items-center">
                         <div></div>
                         <div className="basis-[51%] flex flex-row items-center">
-                            <div className="w-[26px] h-[26px] border-[1px] rounded-full border-BorderDivider"></div>
-                            <div className="w-full h-[2px] border-[1px] border-BorderDivider"></div>
+                            <div className="w-[26px] h-[26px] border-[1.5px] rounded-full border-BorderDivider"></div>
+                            <div className="w-full h-[1px] border-[1px] border-BorderDivider"></div>
                         </div>
                     </div>
                     <div className="font-pretendard text-Base-px text-TextQuaternary font-strong">
@@ -116,8 +118,8 @@ export default function Section3() {
                     </p>
                     <div className="flex flex-row items-center">
                         <div className="basis-[51%] flex flex-row items-center">
-                            <div className="w-full h-[2px] border-[1px] border-BorderDivider"></div>
-                            <div className="w-[26px] h-[26px] border-[1px] rounded-full border-BorderDivider"></div>
+                            <div className="w-full h-[1px] border-[1px] border-BorderDivider"></div>
+                            <div className="w-[26px] h-[26px] border-[1.5px] rounded-full border-BorderDivider"></div>
                         </div>
                         <div></div>
                     </div>
@@ -142,8 +144,8 @@ export default function Section3() {
                     <div className="flex flex-row justify-end items-center">
                         <div></div>
                         <div className="basis-[51%] flex flex-row items-center">
-                            <div className="w-[26px] h-[26px] border-[1px] rounded-full border-BorderDivider"></div>
-                            <div className="w-full h-[2px] border-[1px] border-BorderDivider"></div>
+                            <div className="w-[26px] h-[26px] border-[1.5px] rounded-full border-BorderDivider"></div>
+                            <div className="w-full h-[1px] border-[1px] border-BorderDivider"></div>
                         </div>
                     </div>
                     <div className="font-pretendard text-Base-px text-TextQuaternary font-strong">

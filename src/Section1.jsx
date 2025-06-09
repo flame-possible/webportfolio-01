@@ -3,7 +3,7 @@
 export default function Section1() {
   return (
     <div className="px-[16px] md:px-[42px] lg:px-[58px] xl:px-[120px] md:h-[480px] lg:h-[620px] bg-gradient-to-r from-black to-[#1F1102] flex flex-col md:flex-row justify-center md:justify-between items-center">
-        <div className="pt-[40px] flex flex-col gap-[40px] basis-[95%]">
+        <div className="pt-[40px] md:pt-0 flex flex-col gap-[40px]">
 
             <div className="gap-[12px] xl:gap-[18px] flex flex-col justify-center text-center md:text-left">
 
@@ -48,7 +48,7 @@ export default function Section1() {
         <img src="/section1.png" alt="Section1 이미지" className="w-auto object-cover md:hidden" />
 
         <div>
-          <img src="/section1_1.png" alt="Section1 이미지" className="hidden w-auto object-cover md:block" />
+          <img src="/section1_1.png" alt="Section1 이미지" className="hidden w-auto object-cover md:block md:max-h-[480px] lg:max-h-[620px]" />
         </div>
 
     </div>
